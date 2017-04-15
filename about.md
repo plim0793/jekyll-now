@@ -13,6 +13,5 @@ Feel free to contact me!  I'm currently in the San Francisco area and am always 
 
 ### Contact me
 
-[plim0793@gmail.com](mailto:plim0793@gmail.com)
-
-[linkedin](https://www.linkedin.com/in/paul-lim-46911684/)
+- [plim0793@gmail.com](mailto:plim0793@gmail.com)
+- [linkedin](https://www.linkedin.com/in/paul-lim-46911684/)
