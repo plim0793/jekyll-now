@@ -3,8 +3,6 @@ layout: post
 title: First Week of Metis
 published: true
 ---
-# Reflection
-
 ## Expectations Coming into the Program
 
 Coming into the Metis Data Science Immersive Program, I had no real idea of what I was getting myself into.  On one hand I felt confident that if I put my best effort into this program, I would succeed in developing into a real data scientist.  On the other hand I had a fear that no matter how hard I tried, the sheer amount of work I would be expected to complete would feel
@@ -27,4 +25,3 @@ Our group meshed well together.  We were all on the same page in terms of direct
 ## Expectations for the Future
 
 This coming week I just want to continue immersing myself into the program.  I want to _learn_.  I want to _grow_.  I want to be _challenged_.
-
