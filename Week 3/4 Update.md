@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 4 Weeks (almost) Complete!
 
